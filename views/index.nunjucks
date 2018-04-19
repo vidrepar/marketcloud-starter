@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Awesome ssMarketcloud Express Starter</title>
+  <meta charset="utf-8">
+  <link href="/stylesheets/style.css" rel="stylesheet">
+</head>
+<body>
+  <b>{{ title }}</b>
+</body>
+</html>
