@@ -7,7 +7,7 @@
  - 404 handler middleware
 
 ## To Do
-  - Add linter
+  - ~~Add linter~~
   - Add Marketcloud initialization code block ;)
   - Write a barebones logic of how to use Marketcloud on index route
   - Move change log elsewhere
